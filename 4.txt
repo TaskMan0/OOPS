@@ -1,0 +1,1 @@
+This is written to file char by char and will be read char by char and it is appended
